@@ -1,0 +1,25 @@
+{
+  "name": "alert-importer",
+  "version": "0.0.0",
+  "description": "Import your existing alerts into Via.",
+  "main": "./lib/main",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "via",
+    "trading",
+    "alert",
+    "importer"
+  ],
+  "repository": "https://github.com/via-platform/alert-importer",
+  "author": "Dakota Gordon",
+  "engines": {
+    "via": "*"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "configSchema": {},
+  "providedServices": {}
+}
