@@ -1,6 +1,6 @@
 {
   "name": "alert-importer",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Import your existing alerts into Via.",
   "main": "./lib/main",
   "scripts": {
